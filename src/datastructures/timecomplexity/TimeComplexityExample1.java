@@ -1,4 +1,4 @@
-package datastructures;
+package datastructures.timecomplexity;
 
 public class TimeComplexityExample1 {
 
